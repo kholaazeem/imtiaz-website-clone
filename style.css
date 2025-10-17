@@ -14,7 +14,8 @@ html,body {
 .navbar {
   
     background-color: #fffffff2;
-    height: 81.09px;
+    /* height: 81.09px; */
+    height: 10%;
     flex-wrap: nowrap !important;
     margin-bottom: 10px;
     padding: 45px 0 !important;
@@ -249,6 +250,16 @@ html,body {
    
     .logo img {
     margin-left: 2rem;
+}
+
+  .offcanvas-body a{
+   font-size: 2rem;
+   padding-bottom: 20px;
+
+}
+.offcanvas-body {
+ 
+   justify-content: center;
 }
 }
         /* social Icons css */
