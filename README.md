@@ -12,7 +12,7 @@ Pakistan ki sabse badi retail chain **Imtiaz** ki website ka ek pixel-perfect au
 
 ### 📱 Mobile Responsiveness
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6a93372c-c482-4909-91e4-3004aad4a1c2 width="200" />
+ ![imtiaz mobile](https://github.com/user-attachments/assets/6a93372c-c482-4909-91e4-3004aad4a1c2)
  
 </p>
 
@@ -20,7 +20,7 @@ Pakistan ki sabse badi retail chain **Imtiaz** ki website ka ek pixel-perfect au
 ---
 
 ## 🚀 Live Preview
-🔗 **[Live Demo Link Yahan Dalein]**
+🔗 **[https://kholaazeem.github.io/imtiaz-website-clone/]**
 
 ---
 
