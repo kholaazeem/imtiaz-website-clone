@@ -11,10 +11,8 @@ Pakistan ki sabse badi retail chain **Imtiaz** ki website ka ek pixel-perfect au
 ![imtiaz desktop](https://github.com/user-attachments/assets/99ac3789-e456-4b9e-bc62-e5e627bcad90))
 
 ### 📱 Mobile Responsiveness
-<p align="center">
+
  ![imtiaz mobile](https://github.com/user-attachments/assets/6a93372c-c482-4909-91e4-3004aad4a1c2)
- 
-</p>
 
 
 ---
@@ -57,8 +55,6 @@ Pakistan ki sabse badi retail chain **Imtiaz** ki website ka ek pixel-perfect au
 
 
 
-![imtiaz desktop](https://github.com/user-attachments/assets/99ac3789-e456-4b9e-bc62-e5e627bcad90)
-![imtiaz mobile](https://github.com/user-attachments/assets/6a93372c-c482-4909-91e4-3004aad4a1c2)
 
 
 
